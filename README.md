@@ -1,56 +1,80 @@
-<div align="center">
-  <a href="https://www.youtube.com/@PatphonSD" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://instagram.com/mengsokool.gg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
+# 👋 Hi, I'm Patcharaphon Srida (Meng)
 
-###
+[![Portfolio](https://img.shields.io/badge/portfolio-mengsokool.space-blue?style=flat-square&logo=google-chrome)](https://mengsokool.space)
+[![GitHub mengsokool](https://img.shields.io/github/followers/mengsokool?label=follow&style=social)](https://github.com/mengsokool)
 
-<h1 align="left">Hello World 👋</h1>
+**Fullstack Developer | Enet-C Student @ CIT - KMUTNB**  
+Location: Surin, Thailand  
+📧 Email: muc5674@gmail.com  
+🌐 Portfolio: [mengsokool.space](https://mengsokool.space)
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 👨‍💻 About Me
 
-###
+I'm a passionate Fullstack Developer with a strong foundation in computer engineering and electrical systems. Currently studying at KMUTNB. I enjoy building things that make life easier, focusing on both coding and seamless user experience.
 
-<p align="left"># Hi there! I'm Meng 👋<br><br>I'm a vocational student from Thailand, specializing in Electrical Power. I'm highly passionate about learning and exploring the world of coding to develop software and applications. This is a new challenge that I am committed to facing as I continue to improve my skills.<br><br>- 🔭 I’m working as a student, aiming to gain more knowledge and experience in coding.<br>- 📚 I'm currently learning various programming languages, reading and understanding code, and staying updated on new technologies and trends in the software industry.<br>- ⚡ In my free time, I enjoy reading, experimenting with code, and exploring new ideas and technologies.<br><br>Even though I may not be highly skilled at the moment, my determination to improve every day is unwavering. Thank you to everyone who supports and encourages me in my learning journey. If you have any advice or suggestions, I am more than happy to listen and discuss. Let's learn and create amazing things together!<br><br>Feel free to connect with me here, and let's embark on this exciting journey!</p>
+Founder & Lead Developer of “GearMind” — an industrial chatbot, made in collaboration with NSTDA.   
+Proven experience in real-world system design, prototyping, and managing innovative tech projects.
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+## 🚀 Experiences
 
-###
+- **Founder & Lead Developer**  
+  _GearMind RAG Chatbot (2023-2024)_  
+  - Developed an industrial AI chatbot platform with NSTDA.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-</div>
+- **School Projects @ Surin Technical College**  
+  - Co-created school management & event check-in system (QR based, GPS attendance)  
+  - Currently used by 2000+ students
 
-###
+- **Industry Collaboration**  
+  - Developed knowledge management API, Real-time IoT monitoring, and fault analysis tools for charging stations
 
-<h3 align="left">🔥   My Stats :</h3>
+- **Head of R&D Team**  
+  _Invention Projects (2022-2024)_  
+  - Designed PowerHub, smart water pump, and energy measurement tools for competitions
 
-###
+---
+
+## 🛠️ Skills
+
+**Languages**:  
+![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frameworks & Tools**:  
+- Next.js, Expo, TailwindCSS, Figma  
+- Arduino, Docker, Postman, CURL, Git & GitHub
+
+---
+
+## 🎓 Education
+
+- **B.Eng. in Electronics Engineering Technology (Computer)**  
+  _College of Industrial Technology, KMUTNB_  
+  (June 2025 - Present)
+
+- **Vocational Education Certificate (Electrical Power)**  
+  _Surin Technical College_  
+  (May 2022 - March 2025)  
+  _GPA: 3.83_
+
+---
+
+## 🔗 Find me on
+
+- Github: [mengsokool](https://github.com/mengsokool)
+- Website: [mengsokool.space](https://mengsokool.space)
+- Email: muc5674@gmail.com
+
+---
+
+> “Eager to grow as a software developer and ready to build the next big thing 🚀”
+
+---
